@@ -1,0 +1,2 @@
+define(['exports', 'module', './keys-78ca48b9'], (function(i,e,r){"use strict";const s={row:"_15s5g4x",column:"_1c2s5wn"},n={nowrap:"nkjher",wrap:"_1um9fyo",reverse:"xrvsxg",inherit:"zk7jnk",initial:"_13c7i8b"},o={direction:s,wrap:n},t=r.keys_1(s),a=r.keys_1(n),c={direction:({direction:i})=>void 0===i?{}:{class:s[i]},wrap:({wrap:i})=>void 0===i?{}:{class:n[i]}};i.directions=t,i.flexboxInterpolations=c,i.flexboxStyles=o,i.wraps=a}));
+//# sourceMappingURL=flexbox-46d184cc.js.map

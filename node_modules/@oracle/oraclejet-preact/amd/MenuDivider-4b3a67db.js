@@ -1,0 +1,2 @@
+define(['exports', 'preact/jsx-runtime', './hooks/UNSAFE_useComponentTheme', './UNSAFE_Divider', './UNSAFE_Menu/themes/redwood/MenuDividerTheme', './Divider-e1dee0ca'], (function(e,i,n,s,d,o){"use strict";e.MenuDivider=function(){const{classes:e}=n.useComponentTheme(d.MenuDividerRedwoodTheme);return i.jsx("div",{class:e,children:i.jsx(o.Divider,{})})}}));
+//# sourceMappingURL=MenuDivider-4b3a67db.js.map
